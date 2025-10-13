@@ -1,4 +1,4 @@
-Welcome to my GitHub! I’m an aspiring Business Intelligence & Data Analyst who loves exploring data, building dashboards, and learning new tools along the way.
+🌸Welcome to my GitHub! I’m an aspiring Business Intelligence & Data Analyst who loves exploring data, building dashboards, and learning new tools along the way.
 
 Here you’ll find:
 
