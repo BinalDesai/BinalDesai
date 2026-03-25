@@ -3,6 +3,7 @@
 🌸 Aspiring **Business Intelligence & Data Analyst** passionate about turning data into actionable insights and clear visual stories.  
 
 📍 Wellington, New Zealand 
+
 📧 binaldesai06@gmail.com  
 🔗 [LinkedIn](https://bit.ly/contactbinaldesai) 
 
