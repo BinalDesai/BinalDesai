@@ -16,6 +16,7 @@ I’m currently pursuing an AI-powered Data Analyst diploma with Mission Ready, 
 I have a background in Computer Science and spent over 4 years as a Lecturer, teaching subjects like Database Management Systems, SQL, and Excel. This helped me build a strong technical foundation along with the ability to explain complex ideas clearly and communicate insights effectively.
 
 I also gained practical experience as a Data Analyst Intern at Dot Loves Data (Wellington), where I worked on a recruitment analytics project—analyzing data for **500+ candidates**, building Power BI dashboards used by **20+ stakeholders**, and using SQL to combine data from multiple sources. I also focused on **data validation, reporting, and improving data quality** to support better decision-making.
+
 ---
 
 ## 🚀 What You’ll Find Here
