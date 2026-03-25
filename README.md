@@ -4,7 +4,7 @@
 
 📍 Wellington, New Zealand | Work Authorization: New Zealand Resident  
 📧 binaldesai06@gmail.com  
-🔗 [LinkedIn](https://bit.ly/contactbinaldesai) | 🌐 [GitHub](https://github.com/BinalDesai)
+🔗 [LinkedIn](https://bit.ly/contactbinaldesai) 
 
 ---
 
@@ -47,16 +47,6 @@ Figma (Dashboard Mockups, UI Design)
 
 ---
 
-## 📌 Featured Project
-
-**📊 Recruitment Analytics Dashboard (Power BI)**  
-- Analyzed data for **500+ candidates**  
-- Built dashboard used by **20+ stakeholders**  
-- Created DAX measures for hiring KPIs (conversion rate, time-to-fill, etc.)  
-- Used SQL to combine data from **10+ tables**  
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced Power BI & DAX  
@@ -83,3 +73,36 @@ Always open to collaboration, learning, and interesting data projects!
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
+## 💻 Tech Stack
+
+### 🧠 Programming & Data
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📊 Data Analysis & Libraries
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### 📈 BI & Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0F9D58?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### ☁️ Data Platforms & Big Data
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+### 🔧 Data Engineering & Concepts
+![ETL](https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge)
+![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-9C27B0?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-3F51B5?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-795548?style=for-the-badge)
+
+### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
