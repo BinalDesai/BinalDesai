@@ -11,12 +11,11 @@
 
 ## 💡 About Me
 
-I’m currently pursuing an **AI-powered Data Analyst diploma with Mission Ready**, where I’m building hands-on experience in **data analysis, visualization, and dashboard development** using tools like Excel, Power BI, Python, and SQL.
+I’m currently pursuing an AI-powered Data Analyst diploma with Mission Ready, where I’m building hands-on experience in **data analysis, visualization, and dashboard development** using tools like **Excel, Power BI, Python (Pandas, NumPy), SQL, and R**. I’ve worked on data cleaning, wrangling, exploratory data analysis (EDA), and creating dashboards using **DAX and Power Query**, along with applying techniques such as **predictive modelling, clustering, and time series forecasting**.
 
-I have a background in **Computer Science** and spent over 4 years as a **Lecturer**, teaching subjects like Database Management Systems, SQL, and Excel. This helped me build a strong technical foundation along with the ability to explain complex ideas clearly.
+I have a background in Computer Science and spent over 4 years as a Lecturer, teaching subjects like Database Management Systems, SQL, and Excel. This helped me build a strong technical foundation along with the ability to explain complex ideas clearly and communicate insights effectively.
 
-I also gained practical experience as a **Data Analyst Intern at Dot Loves Data (Wellington)**, where I worked on a recruitment analytics project—building dashboards, cleaning data, and generating insights to support decision-making.
-
+I also gained practical experience as a Data Analyst Intern at Dot Loves Data (Wellington), where I worked on a recruitment analytics project—analyzing data for **500+ candidates**, building Power BI dashboards used by **20+ stakeholders**, and using SQL to combine data from multiple sources. I also focused on **data validation, reporting, and improving data quality** to support better decision-making.
 ---
 
 ## 🚀 What You’ll Find Here
