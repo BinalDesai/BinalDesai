@@ -11,7 +11,7 @@
 
 ## 💡 About Me
 
-I’m currently pursuing an AI-powered Data Analyst diploma with Mission Ready, where I’m building hands-on experience in **data analysis, visualization, and dashboard development** using tools like **Excel, Power BI, Python (Pandas, NumPy), SQL, and R**. I’ve worked on data cleaning, wrangling, exploratory data analysis (EDA), and creating dashboards using **DAX and Power Query**, along with applying techniques such as **predictive modelling, clustering, and time series forecasting**.
+I’m currently pursuing an AI-powered Data Analyst diploma with Mission Ready, where I’m building hands-on experience in **data analysis, visualization, and dashboard development** using tools like **Excel, Power BI, Python (Pandas, NumPy), SQL**. I’ve worked on data cleaning, wrangling, exploratory data analysis (EDA), and creating dashboards using **DAX and Power Query**, along with applying techniques such as **predictive modelling, clustering, and time series forecasting**.
 
 I have a background in Computer Science and spent over 4 years as a Lecturer, teaching subjects like Database Management Systems, SQL, and Excel. This helped me build a strong technical foundation along with the ability to explain complex ideas clearly and communicate insights effectively.
 
