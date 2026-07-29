@@ -32,7 +32,7 @@ I also gained practical experience as a Data Analyst Intern at Dot Loves Data (W
 ## 🛠️ Tech Toolbox
 
 **Languages & Programming:**  
-Python (Pandas, NumPy), SQL, R  
+Python (Pandas, NumPy), SQL
 
 **Data Analysis & Visualization:**  
 Power BI, DAX, Power Query, Advanced Excel, EDA, Data Cleaning, Data Wrangling, KPI Reporting  
@@ -67,7 +67,6 @@ Always open to collaboration, learning, and interesting data projects!
 
 ### 🧠 Programming & Data
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📊 Data Analysis & Libraries
